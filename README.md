@@ -45,9 +45,12 @@
 
 ### 📡 `LIVE TELEMETRY`
 
+<<<<<<< HEAD
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankush9918&show_icons=true&hide_border=true&bg_color=070b1c&title_color=00f5d4&icon_color=ff2e97&text_color=c9d1d9&ring_color=7b61ff" alt="stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush9918&layout=compact&hide_border=true&bg_color=070b1c&title_color=00f5d4&text_color=c9d1d9" alt="top languages"/>
 
+=======
+>>>>>>> 4db6695f1679bf2f83bb9a800b533fa493bfd239
 <img src="https://streak-stats.demolab.com?user=ankush9918&hide_border=true&background=070b1c&ring=00f5d4&fire=ff2e97&currStreakLabel=00f5d4&sideLabels=8fa0ff&currStreakNum=ffffff&sideNums=ffffff&dates=6b7bb8" alt="streak"/>
 
 </div>
