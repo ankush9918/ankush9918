@@ -1,67 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Tech stack">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Tech stack">
   <defs>
-    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#00f5d4"/>
-      <stop offset="0.5" stop-color="#7b61ff"/>
-      <stop offset="1" stop-color="#ff2e97"/>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f9e8b0"/><stop offset="0.5" stop-color="#d4af37"/><stop offset="1" stop-color="#a67c1a"/>
     </linearGradient>
-    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="4" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <style>
-      .t { font-family: 'JetBrains Mono','Fira Code','Courier New',monospace; font-weight: 700; }
-      .hex { fill: #0a1030; stroke-width: 2.5; }
-      .float1 { animation: fl 4s ease-in-out infinite; }
-      .float2 { animation: fl 4s ease-in-out infinite; animation-delay: 0.5s; }
-      .float3 { animation: fl 4s ease-in-out infinite; animation-delay: 1s; }
-      .float4 { animation: fl 4s ease-in-out infinite; animation-delay: 1.5s; }
-      .float5 { animation: fl 4s ease-in-out infinite; animation-delay: 2s; }
-      .float6 { animation: fl 4s ease-in-out infinite; animation-delay: 2.5s; }
-      .float7 { animation: fl 4s ease-in-out infinite; animation-delay: 3s; }
-      @keyframes fl { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
-    </style>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d4af37" stop-opacity="0.9"/><stop offset="1" stop-color="#d4af37" stop-opacity="0"/>
+    </linearGradient>
   </defs>
+  <rect width="1200" height="330" rx="22" fill="#05060a"/>
+  <rect x="1" y="1" width="1198" height="328" rx="22" fill="none" stroke="url(#gold)" stroke-opacity="0.5" stroke-width="2"/>
 
-  <rect x="1" y="1" width="1198" height="298" rx="16" fill="#070b1c" stroke="url(#neon)" stroke-width="2"/>
-  <text x="600" y="48" text-anchor="middle" class="t" font-size="20" letter-spacing="6" fill="#8fa0ff">// POWER MODULES</text>
+  <text x="60" y="76" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" letter-spacing="9" fill="#d4af37">TECH STACK</text>
+  <rect x="320" y="67" width="820" height="2" fill="url(#fade)"/>
 
-  <!-- hexagon: points relative to center, radius 52 -->
-  <g transform="translate(110 150)"><g class="float1">
-    <polygon class="hex" stroke="#e34f26" filter="url(#glow)" points="0,-56 49,-28 49,28 0,56 -49,28 -49,-28"/>
-    <text class="t" text-anchor="middle" y="7" font-size="18" fill="#ff7a4d">HTML</text>
-  </g></g>
+  <style>
+    .chip { fill: #0b0d14; stroke: #d4af37; stroke-opacity: 0.45; }
+    .nm { font-family: Georgia,'Times New Roman',serif; font-size: 28px; font-weight: 700; fill: #f4efe4; }
+  </style>
 
-  <g transform="translate(275 150)"><g class="float2">
-    <polygon class="hex" stroke="#2d9cff" filter="url(#glow)" points="0,-56 49,-28 49,28 0,56 -49,28 -49,-28"/>
-    <text class="t" text-anchor="middle" y="7" font-size="18" fill="#59b4ff">CSS</text>
-  </g></g>
+  <!-- row 1 -->
+  <g transform="translate(55 108)"><rect class="chip" width="250" height="72" rx="36"/><rect x="34" y="30" width="12" height="12" transform="rotate(45 40 36)" fill="#d4af37"/><text class="nm" x="64" y="47">HTML5</text></g>
+  <g transform="translate(330 108)"><rect class="chip" width="250" height="72" rx="36"/><rect x="34" y="30" width="12" height="12" transform="rotate(45 40 36)" fill="#d4af37"/><text class="nm" x="64" y="47">CSS3</text></g>
+  <g transform="translate(605 108)"><rect class="chip" width="250" height="72" rx="36"/><rect x="34" y="30" width="12" height="12" transform="rotate(45 40 36)" fill="#d4af37"/><text class="nm" x="64" y="47">JavaScript</text></g>
+  <g transform="translate(880 108)"><rect class="chip" width="250" height="72" rx="36"/><rect x="34" y="30" width="12" height="12" transform="rotate(45 40 36)" fill="#d4af37"/><text class="nm" x="64" y="47">Python</text></g>
 
-  <g transform="translate(440 150)"><g class="float3">
-    <polygon class="hex" stroke="#f7df1e" filter="url(#glow)" points="0,-56 49,-28 49,28 0,56 -49,28 -49,-28"/>
-    <text class="t" text-anchor="middle" y="7" font-size="20" fill="#f7df1e">JS</text>
-  </g></g>
-
-  <g transform="translate(605 150)"><g class="float4">
-    <polygon class="hex" stroke="#3fa9ff" filter="url(#glow)" points="0,-56 49,-28 49,28 0,56 -49,28 -49,-28"/>
-    <text class="t" text-anchor="middle" y="7" font-size="17" fill="#6ec1ff">PYTHON</text>
-  </g></g>
-
-  <g transform="translate(770 150)"><g class="float5">
-    <polygon class="hex" stroke="#00f5d4" filter="url(#glow)" points="0,-56 49,-28 49,28 0,56 -49,28 -49,-28"/>
-    <text class="t" text-anchor="middle" y="7" font-size="18" fill="#00f5d4">REACT</text>
-  </g></g>
-
-  <g transform="translate(935 150)"><g class="float6">
-    <polygon class="hex" stroke="#7b61ff" filter="url(#glow)" points="0,-56 49,-28 49,28 0,56 -49,28 -49,-28"/>
-    <text class="t" text-anchor="middle" y="7" font-size="18" fill="#a592ff">GIT</text>
-  </g></g>
-
-  <g transform="translate(1090 150)"><g class="float7">
-    <polygon class="hex" stroke="#ff2e97" filter="url(#glow)" points="0,-56 49,-28 49,28 0,56 -49,28 -49,-28"/>
-    <text class="t" text-anchor="middle" y="-2" font-size="18" fill="#ff6fb8">AI</text>
-    <text class="t" text-anchor="middle" y="18" font-size="13" fill="#ff6fb8">AGENTS</text>
-  </g></g>
-
-  <text x="600" y="268" text-anchor="middle" class="t" font-size="15" letter-spacing="3" fill="#6b7bb8">BUILT FAST · SHIPPED WITH AI</text>
+  <!-- row 2 -->
+  <g transform="translate(55 208)"><rect class="chip" width="250" height="72" rx="36"/><rect x="34" y="30" width="12" height="12" transform="rotate(45 40 36)" fill="#d4af37"/><text class="nm" x="64" y="47">React</text></g>
+  <g transform="translate(330 208)"><rect class="chip" width="250" height="72" rx="36"/><rect x="34" y="30" width="12" height="12" transform="rotate(45 40 36)" fill="#d4af37"/><text class="nm" x="64" y="47">Node.js</text></g>
+  <g transform="translate(605 208)"><rect class="chip" width="250" height="72" rx="36"/><rect x="34" y="30" width="12" height="12" transform="rotate(45 40 36)" fill="#d4af37"/><text class="nm" x="64" y="47">Git &amp; GitHub</text></g>
+  <g transform="translate(880 208)"><rect class="chip" width="250" height="72" rx="36" stroke-opacity="0.9"/><rect x="34" y="30" width="12" height="12" transform="rotate(45 40 36)" fill="#f5d98b"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></rect><text class="nm" x="64" y="47" fill="#f5d98b" style="fill:#f5d98b">AI Agents</text></g>
 </svg>
