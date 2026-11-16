@@ -1,70 +1,95 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ankush&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=20" width="100%" alt="header" />
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=2C9CDB&center=true&vCenter=true&width=520&lines=Building+clean+and+scalable+web+apps;E-commerce+%7C+Admin+Dashboards+%7C+APIs;Always+learning%2C+always+shipping" alt="Typing SVG" />
-  </a>
-</p>
+<img src="./assets/banner.svg" width="100%" alt="Ankush - AI Powered Builder"/>
 
-<p align="center">
-  <a href="https://github.com/ankush9918"><img src="https://img.shields.io/badge/GitHub-ankush9918-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=ankush9918&label=VISITORS&color=00f5d4&style=flat-square&labelColor=0a0f2c" alt="views"/>
+<img src="https://img.shields.io/github/followers/ankush9918?label=FOLLOWERS&style=flat-square&color=7b61ff&labelColor=0a0f2c" alt="followers"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20FREELANCE-27c93f?style=flat-square&labelColor=0a0f2c" alt="status"/>
 
-## 👨‍💻 About Me
+</div>
 
-I enjoy turning ideas into real, working products. I'm currently building an e-commerce platform with a separate admin portal and customer storefront, supporting both Cash on Delivery and online payments. I like writing code that is clean, readable and easy to maintain.
+<br/>
 
-- 🔭 Currently working on: **E-commerce platform with admin portal**
-- 🌱 Currently learning: *add what you're learning*
-- 📍 Based in: **India**
-- 📫 Reach me at: *your-email@example.com*
+<div align="center">
+<img src="./assets/terminal.svg" width="100%" alt="About me terminal"/>
+</div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode&theme=dark" alt="Tech Stack" />
-</p>
+### ⚡ `POWER MODULES`
 
----
+<img src="./assets/stack.svg" width="100%" alt="Tech stack"/>
 
-## 🚀 Featured Projects
+</div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 E-Commerce Platform</h3>
-      <p>Dropshipping store with a customer website and a separate admin portal. Supports COD and online payments.</p>
-      <p><b>Tech:</b> HTML, CSS, JavaScript, Node.js</p>
-      <a href="https://github.com/ankush9918/repo-name">View Repository →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📁 Project Name</h3>
-      <p>One or two lines about what this project does and why you built it.</p>
-      <p><b>Tech:</b> Add technologies here</p>
-      <a href="https://github.com/ankush9918/repo-name">View Repository →</a>
-    </td>
-  </tr>
-</table>
+<br/>
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+### 🧠 `WHAT I BUILD`
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ankush9918&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush9918&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+| 🌐 **WEB** | 📱 **APPS** | 🤖 **AI AGENTS** |
+|:---:|:---:|:---:|
+| Portfolios, landing pages, business sites | Cross-platform and web apps | Agents, scrapers, workflow bots |
+| Fast · Responsive · Clean | Idea → working MVP | Automate boring manual work |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ankush9918&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
+<div align="center">
+
+### 📡 `LIVE TELEMETRY`
+
+<img src="https://streak-stats.demolab.com?user=ankush9918&hide_border=true&background=070b1c&ring=00f5d4&fire=ff2e97&currStreakLabel=00f5d4&sideLabels=8fa0ff&currStreakNum=ffffff&sideNums=ffffff&dates=6b7bb8" alt="streak"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 `CONTRIBUTION SNAKE`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankush9918/ankush9918/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankush9918/ankush9918/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ankush9918/ankush9918/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🛰️ `ACTIVE MISSION`
+
+| | |
+|:--|:--|
+| 🧭 **AI Job Finder Agent** | An agent that finds genuine jobs and internships daily, with no manual entry |
+| 🔨 **Status** | In progress |
+
+<sub>Add your best projects here: pin them on your profile and list them in this table.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔌 `ESTABLISH CONNECTION`
+
+[![GitHub](https://img.shields.io/badge/GitHub-ankush9918-0a0f2c?style=for-the-badge&logo=github&logoColor=00f5d4)](https://github.com/ankush9918)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-0a0f2c?style=for-the-badge&logo=gmail&logoColor=ff2e97)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0f2c?style=for-the-badge&logo=linkedin&logoColor=7b61ff)](https://www.linkedin.com/in/your-linkedin)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=00F5D4&center=true&vCenter=true&width=720&lines=Have+a+project+in+mind%3F+Let's+build+it+together+%F0%9F%9A%80;Ideas+in.+Working+products+out.+%E2%9A%A1" alt="footer typing"/>
+
+</div>
