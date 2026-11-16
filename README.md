@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/banner.svg" width="100%" alt="Ankush - AI Builder"/>
+
 
 <img src="https://komarev.com/ghpvc/?username=ankush9918&label=VISITORS&color=00f5d4&style=flat-square&labelColor=0a0f2c" alt="views"/>
 <img src="https://img.shields.io/github/followers/ankush9918?label=FOLLOWERS&style=flat-square&color=7b61ff&labelColor=0a0f2c" alt="followers"/>
