@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="About Ankush terminal">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00f5d4"/>
+      <stop offset="1" stop-color="#7b61ff"/>
+    </linearGradient>
+    <filter id="glow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .m { font-family: 'JetBrains Mono','Fira Code','Courier New',monospace; font-size: 20px; }
+      .p { fill: #00f5d4; }
+      .c { fill: #e6ecff; }
+      .k { fill: #ff2e97; }
+      .v { fill: #ffd166; }
+      .d { fill: #6b7bb8; }
+      .l1 { opacity: 0; animation: show 14s infinite; animation-delay: 0.3s; }
+      .l2 { opacity: 0; animation: show 14s infinite; animation-delay: 1.4s; }
+      .l3 { opacity: 0; animation: show 14s infinite; animation-delay: 2.3s; }
+      .l4 { opacity: 0; animation: show 14s infinite; animation-delay: 3.1s; }
+      .l5 { opacity: 0; animation: show 14s infinite; animation-delay: 3.9s; }
+      .l6 { opacity: 0; animation: show 14s infinite; animation-delay: 4.7s; }
+      .l7 { opacity: 0; animation: show 14s infinite; animation-delay: 5.5s; }
+      .l8 { opacity: 0; animation: show 14s infinite; animation-delay: 6.5s; }
+      .l9 { opacity: 0; animation: show 14s infinite; animation-delay: 7.3s; }
+      @keyframes show { 0% { opacity: 0; } 2% { opacity: 1; } 92% { opacity: 1; } 100% { opacity: 0; } }
+      .cur { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="418" rx="16" fill="#070b1c" stroke="url(#neon)" stroke-width="2"/>
+  <path d="M1 17 a16 16 0 0 1 16 -16 H1183 a16 16 0 0 1 16 16 V52 H1 Z" fill="#101736"/>
+  <circle cx="34" cy="27" r="7" fill="#ff5f56"/>
+  <circle cx="58" cy="27" r="7" fill="#ffbd2e"/>
+  <circle cx="82" cy="27" r="7" fill="#27c93f"/>
+  <text x="600" y="33" text-anchor="middle" class="m d" style="font-size:15px">ankush@github: ~/about</text>
+
+  <g class="m">
+    <g class="l1"><text x="40" y="96"><tspan class="p">ankush@lab</tspan><tspan class="d">:</tspan><tspan class="k">~</tspan><tspan class="c">$ whoami</tspan></text></g>
+    <g class="l2"><text x="40" y="128" class="c">B.Tech IT student (2nd year) | AI-first builder</text></g>
+
+    <g class="l3"><text x="40" y="174"><tspan class="p">ankush@lab</tspan><tspan class="d">:</tspan><tspan class="k">~</tspan><tspan class="c">$ cat skills.json</tspan></text></g>
+    <g class="l4"><text x="40" y="206"><tspan class="d">{</tspan> <tspan class="k">"build"</tspan><tspan class="d">:</tspan> <tspan class="v">["websites", "apps", "ai agents", "automation"]</tspan><tspan class="d">,</tspan></text></g>
+    <g class="l5"><text x="62" y="236"><tspan class="k">"workflow"</tspan><tspan class="d">:</tspan> <tspan class="v">"idea -&gt; prompt -&gt; agent -&gt; ship"</tspan><tspan class="d">,</tspan></text></g>
+    <g class="l6"><text x="62" y="266"><tspan class="k">"status"</tspan><tspan class="d">:</tspan> <tspan class="v">"open to freelance work"</tspan> <tspan class="d">}</tspan></text></g>
+
+    <g class="l7"><text x="40" y="312"><tspan class="p">ankush@lab</tspan><tspan class="d">:</tspan><tspan class="k">~</tspan><tspan class="c">$ ./now.sh</tspan></text></g>
+    <g class="l8"><text x="40" y="344" class="c">Building an AI agent that finds genuine jobs and internships daily.</text></g>
+    <g class="l9"><text x="40" y="384"><tspan class="p">ankush@lab</tspan><tspan class="d">:</tspan><tspan class="k">~</tspan><tspan class="c">$ </tspan><tspan class="p cur">█</tspan></text></g>
+  </g>
+</svg>
