@@ -1,85 +1,68 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Ankush - AI Builder"/>
+<img src="./assets/banner.svg" width="100%" alt="Ankush — builder of useful digital products"/>
 
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=ankush9918&label=VISITORS&color=00f5d4&style=flat-square&labelColor=0a0f2c" alt="views"/>
-<img src="https://img.shields.io/github/followers/ankush9918?label=FOLLOWERS&style=flat-square&color=7b61ff&labelColor=0a0f2c" alt="followers"/>
-<img src="https://img.shields.io/badge/STATUS-OPEN%20FOR%20FREELANCE-27c93f?style=flat-square&labelColor=0a0f2c" alt="status"/>
+<a href="https://github.com/ankush9918?tab=repositories"><img src="https://img.shields.io/badge/Explore_projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
+<a href="https://github.com/ankush9918?tab=followers"><img src="https://img.shields.io/github/followers/ankush9918?style=for-the-badge&label=Follow&color=7c3aed" alt="Follow Ankush"/></a>
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="./assets/terminal.svg" width="100%" alt="About me terminal"/>
-</div>
+## Hi, I'm Ankush
 
-<br/>
-
-<div align="center">
-
-### ⚡ `POWER MODULES`
-
-<img src="./assets/stack.svg" width="100%" alt="Tech stack"/>
-
-</div>
-
-<br/>
+I build **clean interfaces, practical web apps and AI-powered automation**.
+My favourite part is turning a rough idea into something people can actually use.
 
 <div align="center">
 
-### 🧠 `WHAT I BUILD`
-
-| 🌐 **WEB** | 📱 **APPS** | 🤖 **AI AGENTS** |
-|:---:|:---:|:---:|
-| Portfolios, landing pages, business sites | Cross-platform and web apps | Agents, scrapers, workflow bots |
-| Fast · Responsive · Clean | Idea → working MVP | Automate boring manual work |
+| Currently building | I care about |
+|:---|:---|
+| An AI job finder that filters genuine opportunities | Useful over flashy |
+| Small products that solve real, boring problems | Fast feedback and simple UX |
 
 </div>
 
-<br/>
+## What I work with
 
 <div align="center">
 
-### 📡 `LIVE TELEMETRY`
-
-<<<<<<< HEAD
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ankush9918&show_icons=true&hide_border=true&bg_color=070b1c&title_color=00f5d4&icon_color=ff2e97&text_color=c9d1d9&ring_color=7b61ff" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush9918&layout=compact&hide_border=true&bg_color=070b1c&title_color=00f5d4&text_color=c9d1d9" alt="top languages"/>
-
-=======
->>>>>>> 4db6695f1679bf2f83bb9a800b533fa493bfd239
-<img src="https://streak-stats.demolab.com?user=ankush9918&hide_border=true&background=070b1c&ring=00f5d4&fire=ff2e97&currStreakLabel=00f5d4&sideLabels=8fa0ff&currStreakNum=ffffff&sideNums=ffffff&dates=6b7bb8" alt="streak"/>
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
-<br/>
+## Selected work
 
 <div align="center">
 
-### 🐍 `CONTRIBUTION SNAKE`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankush9918/ankush9918/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankush9918/ankush9918/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/ankush9918/ankush9918/output/github-snake-dark.svg" />
-</picture>
+<a href="https://github.com/ankush9918/smart-cafe-menu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankush9918&repo=smart-cafe-menu&hide_border=true&bg_color=111827&title_color=F9FAFB&text_color=9CA3AF&icon_color=34D399" alt="Smart Cafe Menu"/>
+</a>
+<a href="https://github.com/ankush9918/MandiX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankush9918&repo=MandiX&hide_border=true&bg_color=111827&title_color=F9FAFB&text_color=9CA3AF&icon_color=34D399" alt="MandiX"/>
+</a>
+<a href="https://github.com/ankush9918/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankush9918&repo=portfolio&hide_border=true&bg_color=111827&title_color=F9FAFB&text_color=9CA3AF&icon_color=34D399" alt="Portfolio"/>
+</a>
+<a href="https://github.com/ankush9918/Annasetu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ankush9918&repo=Annasetu&hide_border=true&bg_color=111827&title_color=F9FAFB&text_color=9CA3AF&icon_color=34D399" alt="Annasetu"/>
+</a>
 
 </div>
 
-<br/>
+## A little more
 
 <div align="center">
 
-### 🛰️ `ACTIVE MISSION`
-
-| | |
-|:--|:--|
-| 🧭 **AI Job Finder Agent** | An agent that finds genuine jobs and internships daily, with no manual entry |
-| 🔨 **Status** | In progress |
-
-<sub>Add your best projects here: pin them on your profile and list them in this table.</sub>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ankush9918&show_icons=true&hide_border=true&bg_color=0B1220&title_color=F9FAFB&icon_color=34D399&text_color=9CA3AF&rank_icon=github" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush9918&layout=compact&hide_border=true&bg_color=0B1220&title_color=F9FAFB&text_color=9CA3AF" alt="Top languages"/>
 
 </div>
 
@@ -87,14 +70,11 @@
 
 <div align="center">
 
-### 🔌 `ESTABLISH CONNECTION`
+**Have an idea worth building?**
+<a href="https://github.com/ankush9918">Let's make it useful.</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ankush9918-0a0f2c?style=for-the-badge&logo=github&logoColor=00f5d4)](https://github.com/ankush9918)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-0a0f2c?style=for-the-badge&logo=gmail&logoColor=ff2e97)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0f2c?style=for-the-badge&logo=linkedin&logoColor=7b61ff)](https://www.linkedin.com/in/your-linkedin)
+<br/><br/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=00F5D4&center=true&vCenter=true&width=720&lines=Have+a+project+in+mind%3F+Let's+build+it+together+%F0%9F%9A%80;Ideas+in.+Working+products+out.+%E2%9A%A1" alt="footer typing"/>
+<img src="https://komarev.com/ghpvc/?username=ankush9918&label=profile%20views&color=7c3aed&style=flat-square" alt="Profile views"/>
 
 </div>
